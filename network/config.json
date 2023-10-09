@@ -15,7 +15,7 @@
   "legend": {
     "edgeLabel": "Connections classifications",
     "colorLabel": "Degree or Weight",
-    "nodeLabel": "Submitted Probelms"
+    "nodeLabel": "Submitted Problems"
   },
   "features": {
     "search": true,
